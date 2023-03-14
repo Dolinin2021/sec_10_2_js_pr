@@ -1,4 +1,4 @@
-import GameSavingLoader from '../app';
+import GameSavingLoader from '../loader';
 
 test('the work of the static load() method', async () => {
   expect.assertions(1);
